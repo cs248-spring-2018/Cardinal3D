@@ -80,3 +80,7 @@ This codebase should compile on Linux, Mac OS X, and Windows on a typical enviro
 
 ## Handin Instructions
 We are using [Canvas](https://canvas.stanford.edu) as our submission tool. You should create and upload a tar archive of your entire src subdirectory along with the writeup (e.g. writeup.txt) and 3D modeling submission (model.dae).
+
+## Acknowledgement
+
+CS248 course staff would like to thank Professor Keenan Crane and Carnegie Mellon University's course assistants for providing assignment materials.
