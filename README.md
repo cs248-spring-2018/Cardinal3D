@@ -1,7 +1,7 @@
 # CS248 - Cardinal3D
 
-Welcome to Cardinal3D! This 3D graphics software implements interactive mesh
-editing, realistic path tracing, and dynamic animation. Implementing the
+Welcome to Cardinal3D! This 3D graphics software implements interactive triangle mesh
+editing. Implementing the
 functionality of the program constitutes the majority of the coursework for
 CS248 Interactive Computer Graphics at Stanford University.
 
