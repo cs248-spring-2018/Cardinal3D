@@ -2,7 +2,6 @@
 
 Welcome to Cardinal3D! This 3D graphics software implements interactive triangle mesh
 editing.
-
 Further information is available in the User Guide and Developer Manual, both
 available on the project wiki accessible via tab at the top of the Github.com UI.
 
