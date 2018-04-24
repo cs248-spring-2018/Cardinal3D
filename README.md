@@ -1,12 +1,5 @@
-# CS248 - Cardinal3D
-
-Welcome to Cardinal3D! This 3D graphics software implements interactive triangle mesh
-editing.
-Further information is available in the User Guide and Developer Manual, both
-available on the project wiki accessible via tab at the top of the Github.com UI.
-
-# Assignment 2: MeshEdit
-The repository is located at https://github.com/cs248-spring-2018/Cardinal3D. The wiki on that page will be the primary source of information about this assignment, this document only contains administrative details about grading and submission.
+# Stanford CS248 Assignment 2: MeshEdit
+The repository is located at https://github.com/cs248-spring-2018/Cardinal3D. The [wiki](https://github.com/cs248-spring-2018/Cardinal3D/wiki) on that page will be the primary source of information about this assignment, this document only contains administrative details about grading and submission.
 
 ## Evaluation
 For this assignment, you will implement methods in meshEdit.cpp.
